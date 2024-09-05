@@ -13,3 +13,17 @@
 <a href="https://solved.ac/jyk3311"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyk3311&theme=dark"/></a>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyk3311)](https://github.com/jyk3311/github-readme-stats) -->
+
+ ### Skills
+ ---
+
+<img src="https://img.shields.io/badge/django-092E20?style=badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=badge&logo=javascript&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-4479A1?style=badge&logo=mysql&logoColor=white"/> 
+
+### Tools
+---
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=badge&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=badge&logo=postman&logoColor=white"/> 
+
+
+
